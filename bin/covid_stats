@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require "../lib/Covid_Stats.rb"
+
+
+CLI.new.call
